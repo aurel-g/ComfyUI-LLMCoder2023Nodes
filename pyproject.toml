@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-llmcoder2023-nodes"
+description = "Various quality of life nodes."
+version = "1.0.8"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/LLMCoder2023/ComfyUI-LLMCoderNodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "llmcoder2023"
+DisplayName = "ComfyUI-LLMCoder2023Nodes"
+Icon = ""
