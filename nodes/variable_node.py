@@ -57,5 +57,5 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "Variable": "Variable Definition"
+    "LLMCoderNodes::Variable": "Variable Definition"
 }

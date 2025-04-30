@@ -49,5 +49,5 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "TemplateInterpolation": "String Template Interpolation"
+    "LLMCoderNodes::TemplateInterpolation": "String Template Interpolation"
 }

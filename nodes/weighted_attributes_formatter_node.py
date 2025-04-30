@@ -109,5 +109,5 @@ NODE_CLASS_MAPPINGS = {
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "WeightedAttributesFormatter": "Weighted Attributes Formatter"
+    "LLMCoderNodes::WeightedAttributesFormatter": "Weighted Attributes Formatter"
 }
